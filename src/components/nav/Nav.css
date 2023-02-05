@@ -1,0 +1,19 @@
+.navigation {
+  height: 100px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+}
+.nav-logo {
+  margin-left: 20px;
+  height: 80px;
+  width: 80px;
+}
+.navigation ul {
+  display: flex;
+}
+.navigation ul li {
+  list-style-type: none;
+  margin-left: 60px;
+  color: white;
+}

@@ -3,7 +3,6 @@ import Nav from "./components/nav/Nav";
 import Post from "./components/post/Post";
 import * as img from "./components/post/image/post-image";
 
-
 const postData = {
   author: {
     name: "Anakin skywalker",
@@ -13,8 +12,6 @@ const postData = {
   content: "WTF? Who is Ray? Why she is Skywalker? Luke...?",
   image: img.RAY_IMAGE,
   date: "26 лют.",
-  comends: 225,
-  likes: 468,
 };
 
 function App() {
